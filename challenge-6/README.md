@@ -1,4 +1,4 @@
-# ZTM Coding Challenge 6
+# Coding Challenge 6
 
 Solve 3 JavaScript puzzles below.
 
